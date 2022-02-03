@@ -1,0 +1,70 @@
+/*Custom Colours, TheBlueCat is --blue-jeans*/
+
+/*https://coolors.co/palette/002a4c-18386d-3d438c-684ba6-994ebb-9363d3-8a77ea-7d8aff-00a8ff-00beff */
+:root{
+--prussian-blue: #002a4cff;
+--dark-cornflower-blue: #18386dff;
+--dark-slate-blue: #3d438cff;
+--royal-purple: #684ba6ff;
+--purple-plum: #994ebbff;
+--amethyst: #9363d3ff;
+--medium-purple: #8a77eaff;
+--cornflower-blue: #7d8affff;
+--blue-jeans: #00a8ffff;
+--capri: #00beffff;
+}
+body {
+    padding:0px;
+    margin:0px;
+    background: white;
+}
+header {
+    padding: 20px;
+    background: black;
+    color: white;
+}
+h1 {
+	margin-left: 1%;
+}
+nav {
+	margin-left: 1%;
+}
+section {
+	padding: 20px;
+}
+ul {
+    padding: 0px;
+    list-style-type: none;
+}
+li {
+    display:inline-block;
+    margin-right: 20px;
+}
+footer {
+    padding: 10px 20px;
+    background: black;
+    color: white;
+}
+.nav-pane li a {
+    font-size: x-large;
+	color: #00a8ff;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.menu-box {
+    display: flex;
+}
+.menu-box div {
+    width: 100px;
+    margin: 1px;
+}
+.top-thing.menu-box div {
+    background: var(--blue-jeans);
+}
+.top-thing.menu-box div a {
+    color: black;
+}
