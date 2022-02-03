@@ -1,2 +1,2 @@
 # IBeTheBlueCat.github.io
- Website for IBeTheBlueCat
+ Website for IBeTheBlueCat, github pages is kinda strange ngl

@@ -14,18 +14,10 @@
                     <li><a href="links.html">Links</a></li>
                 </ul>
             </nav>
-            <h1>Home</h1>
+            <h1>Projects</h1>
         </header>
-        <section>
-            <iframe 
-			width="560" 
-			height="315" 
-			src="https://www.youtube.com/embed/videoseries?list=PLhdVgiigiDaUgSjBU2HrT3AN7sL3ggiKY" 
-			title="YouTube video player" 
-			frameborder="0" 
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-			allowfullscreen>
-			</iframe>
+        <section class="top-thing menu-box">
+			
         </section>
     </body>
 </html>
