@@ -50,7 +50,7 @@ footer {
 }
 .nav-pane li a {
     font-size: x-large;
-	color: #00a8ff;
+	color: var(--blue-jeans);
 }
 a {
 	text-decoration: none;
