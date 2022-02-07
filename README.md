@@ -1,2 +1,2 @@
-# IBeTheBlueCat.github.io
+# IBeTheBlueCat Website
  Website for IBeTheBlueCat
